@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "title": "Dermancy Medical House | 罗德岛高端医学美容",
+    "description": "在罗德岛体验高端医学美容，提升您的美丽。Ioannis Michalakis医生提供个性化的肉毒素、填充剂、中胚层疗法、PRP等治疗。",
+    "keywords": "医学美容, 罗德岛, 希腊, 肉毒素, 真皮填充剂, 中胚层疗法, PRP, 水光针, Michalakis医生, 美容治疗"
+  },
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "treatments": "治疗项目",
+    "threeDScan": "3D身体扫描",
+    "technology": "技术",
+    "booking": "预约",
+    "contact": "联系我们",
+    "privacy": "隐私政策",
+    "menu": "菜单",
+    "close": "关闭",
+    "language": "语言"
+  },
+  "hero": {
+    "title": "提升您的美丽",
+    "subtitle": "罗德岛高端医学美容",
+    "description": "个性化治疗，精雕细琢而非彻底改变。与Ioannis Michalakis医生一起体验精妙提升的艺术。",
+    "cta": "预约咨询",
+    "ctaSecondary": "探索治疗项目"
+  },
+  "about": {
+    "title": "关于Dermancy",
+    "doctorName": "Ioannis Michalakis医生",
+    "doctorTitle": "美容医学与抗衰老专家",
+    "doctorBio": "凭借多年的临床经验和对美学平衡的敏锐洞察力，Michalakis医生开发了一种独特的美容医学方法——在恢复年轻活力的同时尊重自然之美。",
+    "experience": "3年以上临床经验",
+    "expertise": "先进注射技术与面部和谐美学",
+    "philosophy": {
+      "title": "我们的理念",
+      "subtitle": "提升而非改变",
+      "description": "美容医学永远不应抹去您的身份——它应该完善它。我们相信精准、极简主义和优雅的效果，让您看起来仿佛一直如此美丽。",
+      "values": {
+        "natural": {
+          "title": "自然效果",
+          "description": "我们拒绝过度矫正和人工填充。每项治疗都旨在彰显您的独特魅力。"
+        },
+        "personalized": {
+          "title": "个性化护理",
+          "description": "没有模板，没有潮流。您的治疗方案围绕您的面部、身体和目标量身定制。"
+        },
+        "precision": {
+          "title": "临床精准",
+          "description": "解剖学精准与艺术敏感相结合。医生主导的护理，注重每一个细节。"
+        }
+      }
+    },
+    "clinic": {
+      "title": "诊所",
+      "description": "一个宁静、私密的环境，医学卓越与优雅护理在此交汇。位于罗德岛中心。",
+      "tagline": "个性化。自然。临床基础扎实。"
+    }
+  },
+  "treatments": {
+    "title": "我们的治疗项目",
+    "subtitle": "探索我们全面的医学美容治疗系列，每项都旨在彰显您的自然之美。",
+    "viewAll": "查看所有治疗项目",
+    "bookNow": "预约此治疗",
+    "learnMore": "了解更多",
+    "duration": "时长",
+    "results": "效果",
+    "longevity": "持续时间",
+    "downtime": "恢复期",
+    "benefits": "主要优势",
+    "idealFor": "适合人群",
+    "howItWorks": "作用原理",
+    "whatToExpect": "预期效果",
+    "botox": {
+      "title": "肉毒素",
+      "tagline": "平滑、自然、焕然一新",
+      "shortDescription": "纯化的神经调节剂，暂时放松面部肌肉，呈现自然清新的外观。",
+      "description": "肉毒素是一种纯化的神经调节剂（肉毒杆菌毒素），可暂时放松导致动态皱纹的面部肌肉。精准注射后，可平滑眉间纹、额头皱纹和鱼尾纹，同时保留您的自然表情。",
+      "benefits": ["平滑眉间纹和额头皱纹", "减少鱼尾纹和动态皱纹", "快速、几乎无痛的操作", "无需恢复期", "自然效果，保留面部表情"],
+      "resultsDetail": "3-5天内可见效果，10-14天达到完全效果。根据肤质和肌肉活动，效果持续4-6个月。"
+    },
+    "fillers": {
+      "title": "真皮填充剂",
+      "tagline": "丰盈、轮廓、和谐",
+      "shortDescription": "透明质酸填充剂用于唇部、颧骨和下颌线增强，效果即刻可见、外观自然。",
+      "description": "透明质酸填充剂恢复丰盈度、定义轮廓并增强面部和谐。我们不过度填充——我们精雕细琢。从唇部增强到下颌线定义，每项治疗都根据您独特的面部解剖学量身定制。",
+      "benefits": ["唇部丰盈、保湿和轮廓定义", "颧骨丰盈度恢复", "下颌线轮廓和定义", "即刻可见效果", "改善皮肤质地和保湿"],
+      "resultsDetail": "即刻见效，恢复期极短。根据治疗区域和使用产品，效果持续6-18个月。"
+    },
+    "mesotherapy": {
+      "title": "中胚层疗法",
+      "tagline": "滋养、焕新、焕发光彩",
+      "shortDescription": "通过定制的透明质酸、维生素、肽和抗氧化剂混合物进行微创皮肤焕新。",
+      "description": "中胚层疗法将定制的透明质酸、维生素、肽和抗氧化剂混合物直接输送到皮肤的中胚层。这种深层滋养激活自然再生，带来更明亮、更光滑、更水润的肤色。",
+      "benefits": ["深层皮肤滋养和再生", "更明亮、更光滑的肤色", "治疗细纹和弹性丧失", "修复日晒损伤", "治疗面部、颈部、胸部和手部"],
+      "resultsDetail": "快速治疗，恢复期极短。通过系列治疗逐步改善。"
+    },
+    "skinBoosters": {
+      "title": "水光针",
+      "tagline": "保湿、紧致、焕发光彩",
+      "shortDescription": "微量注射柔软稳定的透明质酸，提供深层保湿和自然光泽。",
+      "description": "水光针将柔软稳定的透明质酸微量注射到皮肤深层——不是为了增加丰盈度，而是为了保湿。它们刺激胶原蛋白生成并增加细胞保湿，使皮肤更光滑、更紧致、更有光泽。",
+      "benefits": ["更光滑、更紧致、更有光泽的皮肤", "深层细胞保湿", "增强弹性和胶原蛋白生成", "细腻自然，无'整容'痕迹", "治疗面部、颈部和胸部"],
+      "resultsDetail": "数周内可见效果。建议进行系列治疗以获得持续改善或季节性维护。"
+    },
+    "biostimulator": {
+      "title": "生物刺激剂",
+      "tagline": "重建、再生、恢复",
+      "shortDescription": "通过自然胶原蛋白刺激重建皮肤内部结构的注射剂。",
+      "description": "生物刺激剂超越传统填充剂——它们重建皮肤的内部结构。使用聚左旋乳酸（PLLA）或羟基磷灰石钙（CaHA），激活成纤维细胞活性并再生结缔组织，实现自然提升和增强结构。",
+      "benefits": ["重建皮肤内部结构", "自然胶原蛋白刺激", "渐进式再生改善", "自然提升和增强结构", "焕新皮肤质地"],
+      "resultsDetail": "数周内逐渐显效，持续改善数月。适合寻求渐进性再生改善的人群。"
+    },
+    "prp": {
+      "title": "PRP面部和头皮焕新",
+      "tagline": "您身体自身的修复力量",
+      "shortDescription": "PRP疗法利用您身体的再生潜力进行面部和头皮焕新。",
+      "description": "PRP疗法利用您身体自身的再生潜力。通过专业离心机处理少量血液样本以分离血小板和生长因子，然后微量注射到面部皮肤或头皮中，刺激自然愈合和再生。",
+      "benefits": ["刺激胶原蛋白和弹性蛋白生成", "改善皮肤质地和光泽", "增强毛囊微循环", "减少脱发并促进新生长", "微创，几乎无恢复期"],
+      "resultsDetail": "随着身体自然再生过程随时间激活，逐渐显现效果。"
+    },
+    "bodyTreatments": {
+      "title": "身体治疗",
+      "tagline": "塑形、平滑、精雕",
+      "shortDescription": "先进的身体美学，结合技术与医疗级产品进行塑形和橘皮消除。",
+      "description": "我们的身体治疗结合先进技术和医疗级产品，针对局部脂肪沉积、橘皮组织和皮肤质地问题。定制方案针对腹部、大腿、臀部和手臂，实现可见的塑形和平滑效果。",
+      "benefits": ["明显改善橘皮组织", "定向减脂", "增强皮肤弹性", "自然胶原蛋白刺激", "根据您的体型定制方案"],
+      "resultsDetail": "通过系列治疗逐步显效。非手术、安全，恢复期极短。"
+    },
+    "hyperhidrosis": {
+      "title": "多汗症治疗",
+      "tagline": "自信无限",
+      "shortDescription": "临床验证的肉毒杆菌毒素微量注射，有效舒适地控制过度出汗。",
+      "description": "多汗症治疗使用肉毒杆菌毒素（肉毒素）微量注射来控制腋下、手掌、脚底和前额的过度出汗。临床验证、高效的方法，以舒适和私密的方式进行。",
+      "benefits": ["可立即恢复日常活动", "无需恢复期", "治疗时间30分钟或更短", "舒适、私密、高效", "效果持续6-9个月"],
+      "resultsDetail": "效果持续6-9个月。医学卓越与优雅护理的结合。"
+    }
+  },
+  "threeDScan": {
+    "title": "3D身体可视化",
+    "subtitle": "治疗前预览效果",
+    "description": "在交互式3D模型上探索治疗区域。点击任何区域了解该区域可用的治疗方法。",
+    "instruction": "旋转、缩放并点击高亮区域以探索治疗方法。",
+    "cta": "试用3D探索器"
+  },
+  "technology": {
+    "title": "创新与技术",
+    "subtitle": "提升您体验的尖端工具",
+    "aiChat": {
+      "title": "AI医疗助手",
+      "description": "即时获得关于治疗、程序和预约的答案。我们的AI助手全天候24/7为您提供服务，帮助您做出明智的决定。",
+      "features": ["即时治疗信息", "程序说明", "预约协助", "全天候24/7可用"]
+    },
+    "whatsapp": {
+      "title": "WhatsApp礼宾服务",
+      "description": "通过WhatsApp直接与我们联系，进行快速咨询、预约和治疗后跟进。快速、便捷、个性化。",
+      "features": ["快速咨询", "预约", "治疗提醒", "治疗后跟进"]
+    },
+    "booking": {
+      "title": "智能预约系统",
+      "description": "在线预约，实时查看可用时间。选择您的治疗项目，选择首选时间，即时确认。",
+      "features": ["实时可用性", "治疗项目选择", "即时确认", "自动提醒"]
+    },
+    "bodyScan": {
+      "title": "3D身体可视化",
+      "description": "在交互式3D模型上探索治疗区域。在咨询前准确了解每项治疗的作用部位和方式。",
+      "features": ["交互式3D模型", "治疗区域探索", "可视化治疗映射", "咨询前预览"]
+    }
+  },
+  "booking": {
+    "title": "预约",
+    "subtitle": "选择您的治疗项目，选择日期和时间，其余的交给我们。",
+    "step1": {
+      "title": "选择治疗项目",
+      "description": "选择您感兴趣的治疗项目。"
+    },
+    "step2": {
+      "title": "选择日期和时间",
+      "description": "选择您首选的预约时段。"
+    },
+    "step3": {
+      "title": "您的信息",
+      "description": "告诉我们一些关于您的信息。"
+    },
+    "step4": {
+      "title": "确认",
+      "description": "查看并确认您的预约。"
+    },
+    "form": {
+      "name": "全名",
+      "email": "电子邮件",
+      "phone": "电话号码",
+      "notes": "附加说明（可选）",
+      "notesPlaceholder": "任何具体关注、过敏或问题...",
+      "submit": "确认预约",
+      "submitting": "预约中...",
+      "success": "预约已确认！",
+      "successMessage": "我们已收到您的预约请求。您将很快收到确认信息。",
+      "error": "出现错误。请重试或直接与我们联系。"
+    },
+    "calendar": {
+      "selectDate": "选择日期",
+      "selectTime": "选择时间",
+      "noSlots": "此日期无可用时段。",
+      "morning": "上午",
+      "afternoon": "下午"
+    },
+    "steps": {
+      "next": "继续",
+      "back": "返回",
+      "review": "查看预约"
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "我们期待您的来信。如有任何问题或预约咨询，请与我们联系。",
+    "form": {
+      "name": "您的姓名",
+      "email": "您的邮箱",
+      "message": "您的留言",
+      "messagePlaceholder": "我们能为您做什么？",
+      "submit": "发送消息",
+      "submitting": "发送中...",
+      "success": "消息发送成功！",
+      "error": "发送失败。请重试。"
+    },
+    "info": {
+      "address": "地址",
+      "phone": "电话",
+      "email": "邮箱",
+      "hours": "营业时间",
+      "hoursDetail": "周一至周六，上午10:30 - 下午7:00"
+    },
+    "map": "找到我们"
+  },
+  "footer": {
+    "tagline": "精致。优雅。忠于自我。",
+    "navigation": "导航",
+    "treatments": "治疗项目",
+    "contact": "联系方式",
+    "legal": "法律信息",
+    "privacy": "隐私政策",
+    "rights": "版权所有。",
+    "designedBy": "用心设计"
+  },
+  "common": {
+    "readMore": "阅读更多",
+    "viewAll": "查看全部",
+    "bookNow": "立即预约",
+    "callUs": "致电我们",
+    "whatsapp": "WhatsApp联系",
+    "loading": "加载中...",
+    "error": "出现错误",
+    "tryAgain": "重试",
+    "back": "返回",
+    "next": "下一步",
+    "submit": "提交",
+    "cancel": "取消",
+    "close": "关闭",
+    "search": "搜索",
+    "or": "或",
+    "and": "和"
+  },
+  "chatbot": {
+    "title": "Dermancy AI助手",
+    "placeholder": "询问我们的治疗项目...",
+    "greeting": "您好！我是Dermancy AI助手。今天有什么可以帮您的吗？",
+    "suggestions": ["你们提供哪些治疗项目？", "如何预约？", "告诉我关于肉毒素的信息", "你们的营业时间是什么？"]
+  },
+  "cookie": {
+    "message": "我们使用Cookie来增强您的浏览体验。",
+    "accept": "接受",
+    "decline": "拒绝",
+    "learnMore": "了解更多"
+  },
+  "themePreview": {
+    "title": "设计版本",
+    "subtitle": "探索Dermancy Medical House的三种独特设计方向。",
+    "switchTo": "切换到",
+    "current": "当前使用",
+    "cleanMinimal": {
+      "title": "简洁极简",
+      "description": "大胆的极简主义，超大字体、大量留白和青色调色板。散发着现代感的医学专业气质。"
+    },
+    "darkAesthetic": {
+      "title": "暗色美学",
+      "description": "哑光炭灰配玫瑰金点缀、液态玻璃效果和优雅的衬线字体。奢华医学美学升华为艺术。"
+    },
+    "modernProfessional": {
+      "title": "现代专业",
+      "description": "符合WCAG AAA标准的无障碍设计，前沿科技字体、简洁布局和增强的焦点状态。专业权威与现代创新的结合。"
+    }
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "effectiveDate": "生效日期：2025年6月5日",
+    "content": "在Dermancy Medical House，您的隐私很重要。我们通过联系表单（姓名、邮箱、消息）、预约（姓名、邮箱、电话、首选日期/时间）和自动数据（IP地址、浏览器类型、访问页面）收集个人信息。我们使用这些信息来回复咨询、安排预约、改善网站并确保安全。我们不出售或出租个人数据。我们使用带有Cookie的Google Analytics进行网站分析。我们实施适当的技术和组织措施来保护您的数据。根据您的所在地，您有权访问、更正和删除您的个人数据。"
+  }
+}

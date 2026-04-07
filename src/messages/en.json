@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "title": "Dermancy Medical House | Premium Medical Aesthetics in Rhodes",
+    "description": "Elevate your beauty with premium medical aesthetics in Rhodes. Dr. Ioannis Michalakis offers personalized Botox, Fillers, Mesotherapy, PRP, and more.",
+    "keywords": "medical aesthetics, Rhodes, Greece, Botox, dermal fillers, mesotherapy, PRP, skin boosters, Dr. Michalakis, cosmetic treatments"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "treatments": "Treatments",
+    "threeDScan": "3D Body Scan",
+    "technology": "Technology",
+    "booking": "Book Appointment",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Elevate Your Beauty",
+    "subtitle": "Premium Medical Aesthetics in Rhodes",
+    "description": "Personalized treatments that refine, not redefine. Experience the art of subtle enhancement with Dr. Ioannis Michalakis.",
+    "cta": "Book Your Consultation",
+    "ctaSecondary": "Explore Treatments"
+  },
+  "about": {
+    "title": "About Dermancy",
+    "doctorName": "Dr. Ioannis Michalakis",
+    "doctorTitle": "Specialist in Aesthetic Medicine & Anti-Aging",
+    "doctorBio": "With years of clinical experience and a refined eye for balance, Dr. Michalakis has developed a unique approach to aesthetic medicine — one that respects natural beauty while restoring youthful vitality.",
+    "experience": "3+ Years Clinical Experience",
+    "expertise": "Advanced Injectable Techniques & Facial Harmonization",
+    "philosophy": {
+      "title": "Our Philosophy",
+      "subtitle": "Enhancement Over Transformation",
+      "description": "Aesthetic medicine should never erase your identity — it should refine it. We believe in precision, minimalism, and graceful results that look as if they were always yours.",
+      "values": {
+        "natural": {
+          "title": "Natural Results",
+          "description": "We reject overcorrection and artificial volume. Every treatment is designed to enhance your unique features."
+        },
+        "personalized": {
+          "title": "Personalized Care",
+          "description": "No templates, no trends. Your treatment is designed around your face, your body, and your goals."
+        },
+        "precision": {
+          "title": "Clinical Precision",
+          "description": "Anatomical precision combined with artistic sensibility. Doctor-led care with attention to every detail."
+        }
+      }
+    },
+    "clinic": {
+      "title": "The Clinic",
+      "description": "A serene, discreet environment where medical excellence meets elegant care. Located in the heart of Rhodes.",
+      "tagline": "Personalized. Natural. Clinically grounded."
+    }
+  },
+  "treatments": {
+    "title": "Our Treatments",
+    "subtitle": "Discover our comprehensive range of medical aesthetic treatments, each designed to enhance your natural beauty.",
+    "viewAll": "View All Treatments",
+    "bookNow": "Book This Treatment",
+    "learnMore": "Learn More",
+    "duration": "Duration",
+    "results": "Results",
+    "longevity": "Longevity",
+    "downtime": "Downtime",
+    "benefits": "Key Benefits",
+    "idealFor": "Ideal For",
+    "howItWorks": "How It Works",
+    "whatToExpect": "What to Expect",
+    "botox": {
+      "title": "Botox",
+      "tagline": "Smooth, Natural, Refreshed",
+      "shortDescription": "Purified neuromodulator that temporarily relaxes facial muscles for a naturally refreshed appearance.",
+      "description": "Botox is a purified neuromodulator (botulinum toxin) that temporarily relaxes facial muscles responsible for dynamic wrinkles. Administered with precision, it smooths frown lines, forehead creases, and crow's feet while preserving your natural expressions.",
+      "benefits": ["Smooths frown lines and forehead creases", "Reduces crow's feet and dynamic wrinkles", "Quick, virtually painless procedure", "No downtime required", "Natural results preserving facial expressions"],
+      "resultsDetail": "Visible within 3-5 days, full effects at 10-14 days. Results last 4-6 months depending on skin type and muscle activity."
+    },
+    "fillers": {
+      "title": "Dermal Fillers",
+      "tagline": "Volume, Definition, Harmony",
+      "shortDescription": "Hyaluronic acid fillers for lip, cheek, and jawline enhancement with immediate, natural-looking results.",
+      "description": "Hyaluronic acid fillers restore volume, define contours, and enhance facial harmony. We don't overfill — we refine. From lip enhancement to jawline definition, every treatment is tailored to your unique facial anatomy.",
+      "benefits": ["Lip volume, hydration, and border definition", "Cheek volume restoration", "Jawline contouring and definition", "Immediate visible results", "Improved skin texture and hydration"],
+      "resultsDetail": "Immediate results with minimal downtime. Results last 6-18 months depending on the area and product used."
+    },
+    "mesotherapy": {
+      "title": "Mesotherapy",
+      "tagline": "Nourish, Rejuvenate, Glow",
+      "shortDescription": "Minimally invasive skin rejuvenation via customized blends of hyaluronic acid, vitamins, peptides, and antioxidants.",
+      "description": "Mesotherapy delivers a customized blend of hyaluronic acid, vitamins, peptides, and antioxidants directly into the mesodermal layer of your skin. This deep nourishment activates natural regeneration for a brighter, smoother, more hydrated complexion.",
+      "benefits": ["Deep skin nourishment and regeneration", "Brighter, smoother complexion", "Treats fine lines and loss of elasticity", "Repairs sun damage", "Treats face, neck, decollete, and hands"],
+      "resultsDetail": "Quick sessions with minimal downtime. Progressive improvement over a series of treatments."
+    },
+    "skinBoosters": {
+      "title": "Skin Boosters",
+      "tagline": "Hydrate, Plump, Radiate",
+      "shortDescription": "Micro-injections of soft, stabilized hyaluronic acid for deep hydration and natural radiance.",
+      "description": "Skin Boosters deliver micro-injections of soft, stabilized hyaluronic acid deep into your skin — not for volume, but for hydration. They stimulate collagen production and increase cellular hydration for smoother, plumper, more radiant skin.",
+      "benefits": ["Smoother, plumper, more radiant skin", "Deep cellular hydration", "Enhanced elasticity and collagen production", "Subtle without the 'done' appearance", "Treats face, neck, and decollete"],
+      "resultsDetail": "Visible results within weeks. Recommended as a series for sustained improvement or seasonal maintenance."
+    },
+    "biostimulator": {
+      "title": "Biostimulator",
+      "tagline": "Rebuild, Regenerate, Restore",
+      "shortDescription": "Injectables that rebuild your skin's inner structure through natural collagen stimulation.",
+      "description": "Biostimulators go beyond traditional fillers — they rebuild your skin's inner structure. Using Poly-L-lactic acid (PLLA) or Calcium hydroxyapatite (CaHA), they activate fibroblast activity and regenerate connective tissue for a natural lift and enhanced structure.",
+      "benefits": ["Rebuilds skin's inner structure", "Natural collagen stimulation", "Progressive, regenerative improvement", "Natural lift and enhanced structure", "Rejuvenated skin texture"],
+      "resultsDetail": "Progressive results over weeks with continued improvement for months. Ideal for those seeking gradual, regenerative improvement."
+    },
+    "prp": {
+      "title": "PRP Face & Scalp Rejuvenation",
+      "tagline": "Your Body's Own Healing Power",
+      "shortDescription": "Platelet-Rich Plasma therapy harnesses your body's regenerative potential for face and scalp rejuvenation.",
+      "description": "PRP therapy uses your body's own regenerative potential. A small blood draw is processed through a specialized centrifuge to isolate platelets and growth factors, which are then micro-injected into facial skin or scalp to stimulate natural healing and regeneration.",
+      "benefits": ["Stimulates collagen and elastin production", "Improves skin texture and radiance", "Enhances hair follicle microcirculation", "Reduces hair loss and promotes new growth", "Minimally invasive with virtually no downtime"],
+      "resultsDetail": "Gradual results as your body's natural regenerative processes activate over time."
+    },
+    "bodyTreatments": {
+      "title": "Body Treatments",
+      "tagline": "Sculpt, Smooth, Refine",
+      "shortDescription": "Advanced body aesthetics combining technologies with medical-grade products for contouring and cellulite smoothing.",
+      "description": "Our body treatments combine advanced technologies with medical-grade products to address localized fat deposits, cellulite, and skin texture concerns. Customized protocols target the abdomen, thighs, hips, and arms for visible contouring and smoothing.",
+      "benefits": ["Visible cellulite improvement", "Targeted fat reduction", "Enhanced skin elasticity", "Natural collagen stimulation", "Customized protocols for your body type"],
+      "resultsDetail": "Progressive results over a series of sessions. Non-surgical, safe, with minimal downtime."
+    },
+    "hyperhidrosis": {
+      "title": "Hyperhidrosis Treatment",
+      "tagline": "Confidence Without Limits",
+      "shortDescription": "Clinically proven botulinum toxin microinjections to control excessive sweating effectively and comfortably.",
+      "description": "Hyperhidrosis treatment uses botulinum toxin (Botox) microinjections to control excessive sweating in the underarms, palms, soles, and forehead. A clinically proven, highly effective method delivered with comfort and discretion.",
+      "benefits": ["Immediate return to daily activities", "No downtime required", "Sessions last 30 minutes or less", "Comfortable, private, and efficient", "Results last 6-9 months"],
+      "resultsDetail": "Results last 6-9 months. Medical excellence combined with elegant care."
+    }
+  },
+  "threeDScan": {
+    "title": "3D Body Visualization",
+    "subtitle": "See Your Results Before Treatment",
+    "description": "Explore treatment areas on an interactive 3D model. Click any zone to learn about the treatments available for that area.",
+    "instruction": "Rotate, zoom, and click on highlighted zones to explore treatments.",
+    "cta": "Try the 3D Explorer"
+  },
+  "technology": {
+    "title": "Innovation & Technology",
+    "subtitle": "Cutting-edge tools that enhance your experience",
+    "aiChat": {
+      "title": "AI Medical Assistant",
+      "description": "Get instant answers to your questions about treatments, procedures, and scheduling. Our AI assistant is available 24/7 to help you make informed decisions.",
+      "features": ["Instant treatment information", "Procedure explanations", "Scheduling assistance", "Available 24/7"]
+    },
+    "whatsapp": {
+      "title": "WhatsApp Concierge",
+      "description": "Connect with us directly through WhatsApp for quick consultations, appointment booking, and follow-up care. Fast, convenient, and personal.",
+      "features": ["Quick consultations", "Appointment booking", "Treatment reminders", "Post-care follow-up"]
+    },
+    "booking": {
+      "title": "Smart Booking System",
+      "description": "Book your appointment online with real-time availability. Select your treatment, choose your preferred time, and receive instant confirmation.",
+      "features": ["Real-time availability", "Treatment selection", "Instant confirmation", "Automated reminders"]
+    },
+    "bodyScan": {
+      "title": "3D Body Visualization",
+      "description": "Explore treatment areas on an interactive 3D model. Understand exactly where and how each treatment works before your consultation.",
+      "features": ["Interactive 3D model", "Treatment zone exploration", "Visual treatment mapping", "Pre-consultation preview"]
+    }
+  },
+  "booking": {
+    "title": "Book Your Appointment",
+    "subtitle": "Select your treatment, choose a date and time, and we'll take care of the rest.",
+    "step1": {
+      "title": "Select Treatment",
+      "description": "Choose the treatment you're interested in."
+    },
+    "step2": {
+      "title": "Choose Date & Time",
+      "description": "Select your preferred appointment slot."
+    },
+    "step3": {
+      "title": "Your Details",
+      "description": "Tell us a bit about yourself."
+    },
+    "step4": {
+      "title": "Confirmation",
+      "description": "Review and confirm your booking."
+    },
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "notes": "Additional Notes (optional)",
+      "notesPlaceholder": "Any specific concerns, allergies, or questions...",
+      "submit": "Confirm Booking",
+      "submitting": "Booking...",
+      "success": "Booking Confirmed!",
+      "successMessage": "We've received your appointment request. You'll receive a confirmation shortly.",
+      "error": "Something went wrong. Please try again or contact us directly."
+    },
+    "calendar": {
+      "selectDate": "Select a Date",
+      "selectTime": "Select a Time",
+      "noSlots": "No available slots on this date.",
+      "morning": "Morning",
+      "afternoon": "Afternoon"
+    },
+    "steps": {
+      "next": "Continue",
+      "back": "Back",
+      "review": "Review Booking"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'd love to hear from you. Reach out for any questions or to schedule a consultation.",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "messagePlaceholder": "How can we help you?",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Failed to send. Please try again."
+    },
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Working Hours",
+      "hoursDetail": "Monday – Saturday, 10:30 AM – 7:00 PM"
+    },
+    "map": "Find Us"
+  },
+  "footer": {
+    "tagline": "Subtle. Sophisticated. True to you.",
+    "navigation": "Navigation",
+    "treatments": "Treatments",
+    "contact": "Contact",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "rights": "All rights reserved.",
+    "designedBy": "Designed with care"
+  },
+  "common": {
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "bookNow": "Book Now",
+    "callUs": "Call Us",
+    "whatsapp": "WhatsApp Us",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "tryAgain": "Try Again",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "close": "Close",
+    "search": "Search",
+    "or": "or",
+    "and": "and"
+  },
+  "chatbot": {
+    "title": "Dermancy AI Assistant",
+    "placeholder": "Ask about our treatments...",
+    "greeting": "Hello! I'm the Dermancy AI Assistant. How can I help you today?",
+    "suggestions": ["What treatments do you offer?", "How do I book an appointment?", "Tell me about Botox", "What are your opening hours?"]
+  },
+  "cookie": {
+    "message": "We use cookies to enhance your browsing experience.",
+    "accept": "Accept",
+    "decline": "Decline",
+    "learnMore": "Learn More"
+  },
+  "themePreview": {
+    "title": "Design Versions",
+    "subtitle": "Explore three unique design directions for Dermancy Medical House.",
+    "switchTo": "Switch to",
+    "current": "Currently Active",
+    "cleanMinimal": {
+      "title": "Clean Minimal",
+      "description": "Bold minimalism with oversized typography, massive whitespace, and a teal color palette. Exudes medical professionalism with modern edge."
+    },
+    "darkAesthetic": {
+      "title": "Dark Aesthetic",
+      "description": "Matte charcoal with rose gold accents, liquid glass effects, and elegant serif typography. Luxury medical aesthetics elevated to art."
+    },
+    "modernProfessional": {
+      "title": "Modern Professional",
+      "description": "WCAG AAA accessible design with tech-forward typography, clean layouts, and enhanced focus states. Professional authority meets modern innovation."
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "effectiveDate": "Effective Date: June 5, 2025",
+    "content": "At Dermancy Medical House, your privacy matters. We collect personal information through contact forms (name, email, message), appointment booking (name, email, phone, preferred date/time), and automatic data (IP address, browser type, pages visited). We use this information to respond to inquiries, schedule appointments, improve our website, and ensure security. We do not sell or rent personal data. We use Google Analytics with cookies for website analytics. We implement appropriate technical and organizational measures to protect your data. You have rights to access, correct, and delete your personal data depending on your location."
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "title": "Dermancy Medical House | Esthétique Médicale Premium à Rhodes",
+    "description": "Sublimez votre beauté avec l'esthétique médicale premium à Rhodes. Le Dr Ioannis Michalakis propose des traitements personnalisés de Botox, Fillers, Mésothérapie, PRP et plus encore.",
+    "keywords": "esthétique médicale, Rhodes, Grèce, Botox, comblement dermique, mésothérapie, PRP, skin boosters, Dr. Michalakis, traitements cosmétiques"
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "treatments": "Traitements",
+    "threeDScan": "Scan 3D du Corps",
+    "technology": "Technologie",
+    "booking": "Prendre Rendez-vous",
+    "contact": "Contact",
+    "privacy": "Politique de Confidentialité",
+    "menu": "Menu",
+    "close": "Fermer",
+    "language": "Langue"
+  },
+  "hero": {
+    "title": "Sublimez Votre Beauté",
+    "subtitle": "Esthétique Médicale Premium à Rhodes",
+    "description": "Des traitements personnalisés qui affinent, sans transformer. Découvrez l'art de l'embellissement subtil avec le Dr Ioannis Michalakis.",
+    "cta": "Réservez Votre Consultation",
+    "ctaSecondary": "Découvrir les Traitements"
+  },
+  "about": {
+    "title": "À Propos de Dermancy",
+    "doctorName": "Dr Ioannis Michalakis",
+    "doctorTitle": "Spécialiste en Médecine Esthétique & Anti-Âge",
+    "doctorBio": "Fort d'années d'expérience clinique et d'un regard aiguisé pour l'équilibre, le Dr Michalakis a développé une approche unique de la médecine esthétique — une approche qui respecte la beauté naturelle tout en restaurant la vitalité de la jeunesse.",
+    "experience": "3+ Années d'Expérience Clinique",
+    "expertise": "Techniques Avancées d'Injection & Harmonisation Faciale",
+    "philosophy": {
+      "title": "Notre Philosophie",
+      "subtitle": "L'Amélioration Plutôt que la Transformation",
+      "description": "La médecine esthétique ne devrait jamais effacer votre identité — elle devrait l'affiner. Nous croyons en la précision, le minimalisme et des résultats élégants qui semblent avoir toujours été les vôtres.",
+      "values": {
+        "natural": {
+          "title": "Résultats Naturels",
+          "description": "Nous rejetons la surcorrection et le volume artificiel. Chaque traitement est conçu pour mettre en valeur vos traits uniques."
+        },
+        "personalized": {
+          "title": "Soins Personnalisés",
+          "description": "Pas de modèles, pas de tendances. Votre traitement est conçu autour de votre visage, votre corps et vos objectifs."
+        },
+        "precision": {
+          "title": "Précision Clinique",
+          "description": "Précision anatomique combinée à une sensibilité artistique. Des soins dirigés par un médecin avec attention à chaque détail."
+        }
+      }
+    },
+    "clinic": {
+      "title": "La Clinique",
+      "description": "Un environnement serein et discret où l'excellence médicale rencontre des soins élégants. Située au cœur de Rhodes.",
+      "tagline": "Personnalisée. Naturelle. Cliniquement fondée."
+    }
+  },
+  "treatments": {
+    "title": "Nos Traitements",
+    "subtitle": "Découvrez notre gamme complète de traitements esthétiques médicaux, chacun conçu pour sublimer votre beauté naturelle.",
+    "viewAll": "Voir Tous les Traitements",
+    "bookNow": "Réserver Ce Traitement",
+    "learnMore": "En Savoir Plus",
+    "duration": "Durée",
+    "results": "Résultats",
+    "longevity": "Longévité",
+    "downtime": "Temps de Récupération",
+    "benefits": "Avantages Clés",
+    "idealFor": "Idéal Pour",
+    "howItWorks": "Comment Ça Marche",
+    "whatToExpect": "À Quoi S'attendre",
+    "botox": {
+      "title": "Botox",
+      "tagline": "Lisse, Naturel, Rafraîchi",
+      "shortDescription": "Neuromodulateur purifié qui détend temporairement les muscles du visage pour un aspect naturellement rafraîchi.",
+      "description": "Le Botox est un neuromodulateur purifié (toxine botulique) qui détend temporairement les muscles du visage responsables des rides dynamiques. Administré avec précision, il lisse les rides du lion, les plis du front et les pattes d'oie tout en préservant vos expressions naturelles.",
+      "benefits": ["Lisse les rides du lion et les plis du front", "Réduit les pattes d'oie et les rides dynamiques", "Procédure rapide et pratiquement indolore", "Aucun temps de récupération nécessaire", "Résultats naturels préservant les expressions faciales"],
+      "resultsDetail": "Visible en 3-5 jours, effets complets à 10-14 jours. Les résultats durent 4-6 mois selon le type de peau et l'activité musculaire."
+    },
+    "fillers": {
+      "title": "Comblements Dermiques",
+      "tagline": "Volume, Définition, Harmonie",
+      "shortDescription": "Comblements à l'acide hyaluronique pour l'amélioration des lèvres, des joues et de la mâchoire avec des résultats immédiats et naturels.",
+      "description": "Les comblements à l'acide hyaluronique restaurent le volume, définissent les contours et améliorent l'harmonie faciale. Nous ne sur-remplissons pas — nous affinons. De l'amélioration des lèvres à la définition de la mâchoire, chaque traitement est adapté à votre anatomie faciale unique.",
+      "benefits": ["Volume, hydratation et définition des lèvres", "Restauration du volume des joues", "Contour et définition de la mâchoire", "Résultats visibles immédiats", "Texture et hydratation de la peau améliorées"],
+      "resultsDetail": "Résultats immédiats avec un temps de récupération minimal. Les résultats durent 6-18 mois selon la zone et le produit utilisé."
+    },
+    "mesotherapy": {
+      "title": "Mésothérapie",
+      "tagline": "Nourrir, Rajeunir, Rayonner",
+      "shortDescription": "Rajeunissement cutané peu invasif via des mélanges personnalisés d'acide hyaluronique, vitamines, peptides et antioxydants.",
+      "description": "La mésothérapie délivre un mélange personnalisé d'acide hyaluronique, de vitamines, de peptides et d'antioxydants directement dans la couche mésodermique de votre peau. Cette nutrition profonde active la régénération naturelle pour un teint plus lumineux, plus lisse et plus hydraté.",
+      "benefits": ["Nutrition et régénération profondes de la peau", "Teint plus lumineux et plus lisse", "Traite les ridules et la perte d'élasticité", "Répare les dommages causés par le soleil", "Traite le visage, le cou, le décolleté et les mains"],
+      "resultsDetail": "Séances rapides avec un temps de récupération minimal. Amélioration progressive sur une série de traitements."
+    },
+    "skinBoosters": {
+      "title": "Skin Boosters",
+      "tagline": "Hydrater, Repulper, Illuminer",
+      "shortDescription": "Micro-injections d'acide hyaluronique souple et stabilisé pour une hydratation profonde et un éclat naturel.",
+      "description": "Les Skin Boosters délivrent des micro-injections d'acide hyaluronique souple et stabilisé en profondeur dans votre peau — non pas pour le volume, mais pour l'hydratation. Ils stimulent la production de collagène et augmentent l'hydratation cellulaire pour une peau plus lisse, plus rebondie et plus éclatante.",
+      "benefits": ["Peau plus lisse, plus rebondie et plus éclatante", "Hydratation cellulaire profonde", "Élasticité et production de collagène améliorées", "Subtil sans l'apparence 'retouchée'", "Traite le visage, le cou et le décolleté"],
+      "resultsDetail": "Résultats visibles en quelques semaines. Recommandé en série pour une amélioration durable ou un entretien saisonnier."
+    },
+    "biostimulator": {
+      "title": "Biostimulateur",
+      "tagline": "Reconstruire, Régénérer, Restaurer",
+      "shortDescription": "Injectables qui reconstruisent la structure interne de votre peau par stimulation naturelle du collagène.",
+      "description": "Les biostimulateurs vont au-delà des comblements traditionnels — ils reconstruisent la structure interne de votre peau. En utilisant l'acide poly-L-lactique (PLLA) ou l'hydroxyapatite de calcium (CaHA), ils activent l'activité fibroblastique et régénèrent le tissu conjonctif pour un lifting naturel et une structure renforcée.",
+      "benefits": ["Reconstruit la structure interne de la peau", "Stimulation naturelle du collagène", "Amélioration progressive et régénérative", "Lifting naturel et structure renforcée", "Texture de peau rajeunie"],
+      "resultsDetail": "Résultats progressifs sur des semaines avec une amélioration continue pendant des mois. Idéal pour ceux qui recherchent une amélioration graduelle et régénérative."
+    },
+    "prp": {
+      "title": "Rajeunissement PRP Visage & Cuir Chevelu",
+      "tagline": "Le Pouvoir de Guérison de Votre Corps",
+      "shortDescription": "La thérapie PRP exploite le potentiel régénératif de votre corps pour le rajeunissement du visage et du cuir chevelu.",
+      "description": "La thérapie PRP utilise le potentiel régénératif de votre propre corps. Un petit prélèvement sanguin est traité par centrifugation spécialisée pour isoler les plaquettes et les facteurs de croissance, qui sont ensuite micro-injectés dans la peau du visage ou le cuir chevelu pour stimuler la guérison et la régénération naturelles.",
+      "benefits": ["Stimule la production de collagène et d'élastine", "Améliore la texture et l'éclat de la peau", "Améliore la microcirculation des follicules pileux", "Réduit la chute de cheveux et favorise la repousse", "Peu invasif avec pratiquement aucun temps de récupération"],
+      "resultsDetail": "Résultats progressifs à mesure que les processus régénératifs naturels de votre corps s'activent au fil du temps."
+    },
+    "bodyTreatments": {
+      "title": "Traitements Corporels",
+      "tagline": "Sculpter, Lisser, Affiner",
+      "shortDescription": "Esthétique corporelle avancée combinant technologies et produits médicaux pour le remodelage et le lissage de la cellulite.",
+      "description": "Nos traitements corporels combinent des technologies avancées avec des produits médicaux pour traiter les dépôts graisseux localisés, la cellulite et les problèmes de texture cutanée. Des protocoles personnalisés ciblent l'abdomen, les cuisses, les hanches et les bras pour un remodelage et un lissage visibles.",
+      "benefits": ["Amélioration visible de la cellulite", "Réduction ciblée des graisses", "Élasticité cutanée améliorée", "Stimulation naturelle du collagène", "Protocoles personnalisés pour votre morphologie"],
+      "resultsDetail": "Résultats progressifs sur une série de séances. Non chirurgical, sûr, avec un temps de récupération minimal."
+    },
+    "hyperhidrosis": {
+      "title": "Traitement de l'Hyperhidrose",
+      "tagline": "Confiance Sans Limites",
+      "shortDescription": "Micro-injections de toxine botulique cliniquement prouvées pour contrôler efficacement et confortablement la transpiration excessive.",
+      "description": "Le traitement de l'hyperhidrose utilise des micro-injections de toxine botulique (Botox) pour contrôler la transpiration excessive des aisselles, paumes, plantes des pieds et front. Une méthode cliniquement prouvée et très efficace, administrée avec confort et discrétion.",
+      "benefits": ["Retour immédiat aux activités quotidiennes", "Aucun temps de récupération nécessaire", "Séances de 30 minutes ou moins", "Confortable, privé et efficace", "Résultats durant 6-9 mois"],
+      "resultsDetail": "Les résultats durent 6-9 mois. Excellence médicale alliée à des soins élégants."
+    }
+  },
+  "threeDScan": {
+    "title": "Visualisation 3D du Corps",
+    "subtitle": "Voyez Vos Résultats Avant le Traitement",
+    "description": "Explorez les zones de traitement sur un modèle 3D interactif. Cliquez sur n'importe quelle zone pour découvrir les traitements disponibles.",
+    "instruction": "Tournez, zoomez et cliquez sur les zones en surbrillance pour explorer les traitements.",
+    "cta": "Essayer l'Explorateur 3D"
+  },
+  "technology": {
+    "title": "Innovation & Technologie",
+    "subtitle": "Des outils de pointe qui améliorent votre expérience",
+    "aiChat": {
+      "title": "Assistant Médical IA",
+      "description": "Obtenez des réponses instantanées à vos questions sur les traitements, procédures et planification. Notre assistant IA est disponible 24h/24, 7j/7 pour vous aider à prendre des décisions éclairées.",
+      "features": ["Informations instantanées sur les traitements", "Explications des procédures", "Aide à la planification", "Disponible 24h/24, 7j/7"]
+    },
+    "whatsapp": {
+      "title": "Conciergerie WhatsApp",
+      "description": "Contactez-nous directement via WhatsApp pour des consultations rapides, la réservation de rendez-vous et le suivi post-traitement. Rapide, pratique et personnel.",
+      "features": ["Consultations rapides", "Réservation de rendez-vous", "Rappels de traitement", "Suivi post-traitement"]
+    },
+    "booking": {
+      "title": "Système de Réservation Intelligent",
+      "description": "Réservez votre rendez-vous en ligne avec disponibilité en temps réel. Sélectionnez votre traitement, choisissez votre horaire préféré et recevez une confirmation instantanée.",
+      "features": ["Disponibilité en temps réel", "Sélection du traitement", "Confirmation instantanée", "Rappels automatiques"]
+    },
+    "bodyScan": {
+      "title": "Visualisation 3D du Corps",
+      "description": "Explorez les zones de traitement sur un modèle 3D interactif. Comprenez exactement où et comment chaque traitement fonctionne avant votre consultation.",
+      "features": ["Modèle 3D interactif", "Exploration des zones de traitement", "Cartographie visuelle des traitements", "Aperçu avant consultation"]
+    }
+  },
+  "booking": {
+    "title": "Prendre Rendez-vous",
+    "subtitle": "Sélectionnez votre traitement, choisissez une date et une heure, et nous nous occupons du reste.",
+    "step1": {
+      "title": "Sélection du Traitement",
+      "description": "Choisissez le traitement qui vous intéresse."
+    },
+    "step2": {
+      "title": "Choisir Date & Heure",
+      "description": "Sélectionnez votre créneau préféré."
+    },
+    "step3": {
+      "title": "Vos Coordonnées",
+      "description": "Dites-nous un peu de vous."
+    },
+    "step4": {
+      "title": "Confirmation",
+      "description": "Vérifiez et confirmez votre réservation."
+    },
+    "form": {
+      "name": "Nom Complet",
+      "email": "Adresse E-mail",
+      "phone": "Numéro de Téléphone",
+      "notes": "Notes Supplémentaires (facultatif)",
+      "notesPlaceholder": "Préoccupations spécifiques, allergies ou questions...",
+      "submit": "Confirmer la Réservation",
+      "submitting": "Réservation en cours...",
+      "success": "Réservation Confirmée !",
+      "successMessage": "Nous avons reçu votre demande de rendez-vous. Vous recevrez une confirmation sous peu.",
+      "error": "Une erreur est survenue. Veuillez réessayer ou nous contacter directement."
+    },
+    "calendar": {
+      "selectDate": "Sélectionner une Date",
+      "selectTime": "Sélectionner une Heure",
+      "noSlots": "Aucun créneau disponible à cette date.",
+      "morning": "Matin",
+      "afternoon": "Après-midi"
+    },
+    "steps": {
+      "next": "Continuer",
+      "back": "Retour",
+      "review": "Vérifier la Réservation"
+    }
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Nous serions ravis de vous entendre. Contactez-nous pour toute question ou pour planifier une consultation.",
+    "form": {
+      "name": "Votre Nom",
+      "email": "Votre E-mail",
+      "message": "Votre Message",
+      "messagePlaceholder": "Comment pouvons-nous vous aider ?",
+      "submit": "Envoyer le Message",
+      "submitting": "Envoi en cours...",
+      "success": "Message envoyé avec succès !",
+      "error": "Échec de l'envoi. Veuillez réessayer."
+    },
+    "info": {
+      "address": "Adresse",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "hours": "Horaires d'Ouverture",
+      "hoursDetail": "Lundi – Samedi, 10h30 – 19h00"
+    },
+    "map": "Nous Trouver"
+  },
+  "footer": {
+    "tagline": "Subtil. Sophistiqué. Fidèle à vous-même.",
+    "navigation": "Navigation",
+    "treatments": "Traitements",
+    "contact": "Contact",
+    "legal": "Mentions Légales",
+    "privacy": "Politique de Confidentialité",
+    "rights": "Tous droits réservés.",
+    "designedBy": "Conçu avec soin"
+  },
+  "common": {
+    "readMore": "En Savoir Plus",
+    "viewAll": "Tout Voir",
+    "bookNow": "Réserver",
+    "callUs": "Appelez-nous",
+    "whatsapp": "WhatsApp",
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "tryAgain": "Réessayer",
+    "back": "Retour",
+    "next": "Suivant",
+    "submit": "Envoyer",
+    "cancel": "Annuler",
+    "close": "Fermer",
+    "search": "Rechercher",
+    "or": "ou",
+    "and": "et"
+  },
+  "chatbot": {
+    "title": "Assistant IA Dermancy",
+    "placeholder": "Posez vos questions sur nos traitements...",
+    "greeting": "Bonjour ! Je suis l'Assistant IA de Dermancy. Comment puis-je vous aider aujourd'hui ?",
+    "suggestions": ["Quels traitements proposez-vous ?", "Comment prendre rendez-vous ?", "Parlez-moi du Botox", "Quels sont vos horaires ?"]
+  },
+  "cookie": {
+    "message": "Nous utilisons des cookies pour améliorer votre expérience de navigation.",
+    "accept": "Accepter",
+    "decline": "Refuser",
+    "learnMore": "En Savoir Plus"
+  },
+  "themePreview": {
+    "title": "Versions de Design",
+    "subtitle": "Explorez trois directions de design uniques pour Dermancy Medical House.",
+    "switchTo": "Passer à",
+    "current": "Actuellement Actif",
+    "cleanMinimal": {
+      "title": "Minimalisme Épuré",
+      "description": "Minimalisme audacieux avec typographie surdimensionnée, grands espaces blancs et palette turquoise. Dégage un professionnalisme médical avec une touche moderne."
+    },
+    "darkAesthetic": {
+      "title": "Esthétique Sombre",
+      "description": "Anthracite mat avec des accents or rose, des effets de verre liquide et une typographie serif élégante. L'esthétique médicale de luxe élevée au rang d'art."
+    },
+    "modernProfessional": {
+      "title": "Moderne Professionnel",
+      "description": "Design accessible WCAG AAA avec typographie tech, mises en page épurées et états de focus améliorés. L'autorité professionnelle rencontre l'innovation moderne."
+    }
+  },
+  "privacy": {
+    "title": "Politique de Confidentialité",
+    "effectiveDate": "Date d'Entrée en Vigueur : 5 juin 2025",
+    "content": "Chez Dermancy Medical House, votre vie privée est importante. Nous collectons des informations personnelles via les formulaires de contact (nom, e-mail, message), la réservation de rendez-vous (nom, e-mail, téléphone, date/heure préférée) et les données automatiques (adresse IP, type de navigateur, pages visitées). Nous utilisons ces informations pour répondre aux demandes, planifier les rendez-vous, améliorer notre site web et assurer la sécurité. Nous ne vendons ni ne louons de données personnelles. Nous utilisons Google Analytics avec des cookies pour l'analyse du site web. Nous mettons en œuvre des mesures techniques et organisationnelles appropriées pour protéger vos données. Vous avez des droits d'accès, de rectification et de suppression de vos données personnelles selon votre localisation."
+  }
+}

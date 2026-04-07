@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "title": "Dermancy Medical House | Estetica Medica Premium a Rodi",
+    "description": "Esalta la tua bellezza con l'estetica medica premium a Rodi. Il Dr. Ioannis Michalakis offre trattamenti personalizzati di Botox, Filler, Mesoterapia, PRP e altro.",
+    "keywords": "estetica medica, Rodi, Grecia, Botox, filler dermici, mesoterapia, PRP, skin boosters, Dr. Michalakis, trattamenti cosmetici"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Chi Siamo",
+    "treatments": "Trattamenti",
+    "threeDScan": "Scansione 3D del Corpo",
+    "technology": "Tecnologia",
+    "booking": "Prenota Appuntamento",
+    "contact": "Contatti",
+    "privacy": "Informativa sulla Privacy",
+    "menu": "Menu",
+    "close": "Chiudi",
+    "language": "Lingua"
+  },
+  "hero": {
+    "title": "Esalta la Tua Bellezza",
+    "subtitle": "Estetica Medica Premium a Rodi",
+    "description": "Trattamenti personalizzati che raffinano, non ridefiniscono. Scopri l'arte del miglioramento sottile con il Dr. Ioannis Michalakis.",
+    "cta": "Prenota la Tua Consulenza",
+    "ctaSecondary": "Scopri i Trattamenti"
+  },
+  "about": {
+    "title": "Chi è Dermancy",
+    "doctorName": "Dr. Ioannis Michalakis",
+    "doctorTitle": "Specialista in Medicina Estetica e Anti-Aging",
+    "doctorBio": "Con anni di esperienza clinica e un occhio raffinato per l'equilibrio, il Dr. Michalakis ha sviluppato un approccio unico alla medicina estetica — uno che rispetta la bellezza naturale mentre ripristina la vitalità giovanile.",
+    "experience": "3+ Anni di Esperienza Clinica",
+    "expertise": "Tecniche Iniettive Avanzate e Armonizzazione Facciale",
+    "philosophy": {
+      "title": "La Nostra Filosofia",
+      "subtitle": "Miglioramento, Non Trasformazione",
+      "description": "La medicina estetica non dovrebbe mai cancellare la tua identità — dovrebbe raffinarla. Crediamo nella precisione, nel minimalismo e nei risultati eleganti che sembrano essere sempre stati tuoi.",
+      "values": {
+        "natural": {
+          "title": "Risultati Naturali",
+          "description": "Rifiutiamo la sovracorrezione e il volume artificiale. Ogni trattamento è progettato per esaltare le tue caratteristiche uniche."
+        },
+        "personalized": {
+          "title": "Cura Personalizzata",
+          "description": "Nessun modello, nessuna tendenza. Il tuo trattamento è progettato intorno al tuo viso, al tuo corpo e ai tuoi obiettivi."
+        },
+        "precision": {
+          "title": "Precisione Clinica",
+          "description": "Precisione anatomica combinata con sensibilità artistica. Cure dirette dal medico con attenzione a ogni dettaglio."
+        }
+      }
+    },
+    "clinic": {
+      "title": "La Clinica",
+      "description": "Un ambiente sereno e discreto dove l'eccellenza medica incontra cure eleganti. Situata nel cuore di Rodi.",
+      "tagline": "Personalizzata. Naturale. Clinicamente fondata."
+    }
+  },
+  "treatments": {
+    "title": "I Nostri Trattamenti",
+    "subtitle": "Scopri la nostra gamma completa di trattamenti di estetica medica, ciascuno progettato per esaltare la tua bellezza naturale.",
+    "viewAll": "Vedi Tutti i Trattamenti",
+    "bookNow": "Prenota Questo Trattamento",
+    "learnMore": "Scopri di Più",
+    "duration": "Durata",
+    "results": "Risultati",
+    "longevity": "Longevità",
+    "downtime": "Tempo di Recupero",
+    "benefits": "Benefici Principali",
+    "idealFor": "Ideale Per",
+    "howItWorks": "Come Funziona",
+    "whatToExpect": "Cosa Aspettarsi",
+    "botox": {
+      "title": "Botox",
+      "tagline": "Liscio, Naturale, Rinnovato",
+      "shortDescription": "Neuromodulatore purificato che rilassa temporaneamente i muscoli facciali per un aspetto naturalmente rinnovato.",
+      "description": "Il Botox è un neuromodulatore purificato (tossina botulinica) che rilassa temporaneamente i muscoli facciali responsabili delle rughe dinamiche. Somministrato con precisione, leviga le rughe d'espressione, le pieghe della fronte e le zampe di gallina preservando le tue espressioni naturali.",
+      "benefits": ["Leviga le rughe d'espressione e le pieghe della fronte", "Riduce le zampe di gallina e le rughe dinamiche", "Procedura rapida e praticamente indolore", "Nessun tempo di recupero richiesto", "Risultati naturali che preservano le espressioni facciali"],
+      "resultsDetail": "Visibile in 3-5 giorni, effetti completi a 10-14 giorni. I risultati durano 4-6 mesi a seconda del tipo di pelle e dell'attività muscolare."
+    },
+    "fillers": {
+      "title": "Filler Dermici",
+      "tagline": "Volume, Definizione, Armonia",
+      "shortDescription": "Filler di acido ialuronico per l'aumento di labbra, zigomi e mandibola con risultati immediati e dall'aspetto naturale.",
+      "description": "I filler di acido ialuronico ripristinano il volume, definiscono i contorni e migliorano l'armonia facciale. Non riempiamo eccessivamente — raffiniamo. Dall'aumento delle labbra alla definizione della mandibola, ogni trattamento è adattato alla tua anatomia facciale unica.",
+      "benefits": ["Volume, idratazione e definizione delle labbra", "Ripristino del volume degli zigomi", "Contorno e definizione della mandibola", "Risultati visibili immediati", "Texture e idratazione della pelle migliorate"],
+      "resultsDetail": "Risultati immediati con minimo tempo di recupero. I risultati durano 6-18 mesi a seconda dell'area e del prodotto utilizzato."
+    },
+    "mesotherapy": {
+      "title": "Mesoterapia",
+      "tagline": "Nutrire, Ringiovanire, Illuminare",
+      "shortDescription": "Ringiovanimento cutaneo minimamente invasivo tramite miscele personalizzate di acido ialuronico, vitamine, peptidi e antiossidanti.",
+      "description": "La mesoterapia somministra una miscela personalizzata di acido ialuronico, vitamine, peptidi e antiossidanti direttamente nello strato mesodermico della tua pelle. Questa nutrizione profonda attiva la rigenerazione naturale per un incarnato più luminoso, liscio e idratato.",
+      "benefits": ["Nutrizione e rigenerazione profonda della pelle", "Incarnato più luminoso e liscio", "Tratta le linee sottili e la perdita di elasticità", "Ripara i danni del sole", "Tratta viso, collo, décolleté e mani"],
+      "resultsDetail": "Sessioni rapide con minimo tempo di recupero. Miglioramento progressivo attraverso una serie di trattamenti."
+    },
+    "skinBoosters": {
+      "title": "Skin Boosters",
+      "tagline": "Idratare, Rimpolpare, Illuminare",
+      "shortDescription": "Micro-iniezioni di acido ialuronico morbido e stabilizzato per un'idratazione profonda e una luminosità naturale.",
+      "description": "Gli Skin Boosters somministrano micro-iniezioni di acido ialuronico morbido e stabilizzato in profondità nella tua pelle — non per il volume, ma per l'idratazione. Stimolano la produzione di collagene e aumentano l'idratazione cellulare per una pelle più liscia, tonica e luminosa.",
+      "benefits": ["Pelle più liscia, tonica e luminosa", "Idratazione cellulare profonda", "Elasticità e produzione di collagene migliorate", "Sottile senza l'aspetto 'ritoccato'", "Tratta viso, collo e décolleté"],
+      "resultsDetail": "Risultati visibili in settimane. Raccomandato come serie per un miglioramento sostenuto o manutenzione stagionale."
+    },
+    "biostimulator": {
+      "title": "Biostimolatore",
+      "tagline": "Ricostruire, Rigenerare, Ripristinare",
+      "shortDescription": "Iniettabili che ricostruiscono la struttura interna della pelle attraverso la stimolazione naturale del collagene.",
+      "description": "I biostimolatori vanno oltre i filler tradizionali — ricostruiscono la struttura interna della tua pelle. Utilizzando acido poli-L-lattico (PLLA) o idrossiapatite di calcio (CaHA), attivano l'attività fibroblastica e rigenerano il tessuto connettivo per un lifting naturale e una struttura migliorata.",
+      "benefits": ["Ricostruisce la struttura interna della pelle", "Stimolazione naturale del collagene", "Miglioramento progressivo e rigenerativo", "Lifting naturale e struttura migliorata", "Texture della pelle ringiovanita"],
+      "resultsDetail": "Risultati progressivi nel corso delle settimane con miglioramento continuo per mesi. Ideale per chi cerca un miglioramento graduale e rigenerativo."
+    },
+    "prp": {
+      "title": "Ringiovanimento PRP Viso e Cuoio Capelluto",
+      "tagline": "Il Potere Rigenerativo del Tuo Corpo",
+      "shortDescription": "La terapia PRP sfrutta il potenziale rigenerativo del tuo corpo per il ringiovanimento di viso e cuoio capelluto.",
+      "description": "La terapia PRP utilizza il potenziale rigenerativo del tuo corpo. Un piccolo prelievo di sangue viene processato attraverso una centrifuga specializzata per isolare le piastrine e i fattori di crescita, che vengono poi micro-iniettati nella pelle del viso o nel cuoio capelluto per stimolare la guarigione e la rigenerazione naturali.",
+      "benefits": ["Stimola la produzione di collagene ed elastina", "Migliora la texture e la luminosità della pelle", "Migliora la microcircolazione dei follicoli piliferi", "Riduce la caduta dei capelli e promuove la ricrescita", "Minimamente invasivo con praticamente nessun tempo di recupero"],
+      "resultsDetail": "Risultati graduali man mano che i processi rigenerativi naturali del tuo corpo si attivano nel tempo."
+    },
+    "bodyTreatments": {
+      "title": "Trattamenti Corpo",
+      "tagline": "Scolpire, Levigare, Raffinare",
+      "shortDescription": "Estetica corporea avanzata che combina tecnologie con prodotti medici per il rimodellamento e la riduzione della cellulite.",
+      "description": "I nostri trattamenti corpo combinano tecnologie avanzate con prodotti medici per affrontare depositi di grasso localizzati, cellulite e problemi di texture della pelle. Protocolli personalizzati mirano all'addome, cosce, fianchi e braccia per un rimodellamento e levigatura visibili.",
+      "benefits": ["Miglioramento visibile della cellulite", "Riduzione del grasso localizzato", "Elasticità della pelle migliorata", "Stimolazione naturale del collagene", "Protocolli personalizzati per il tuo tipo di corpo"],
+      "resultsDetail": "Risultati progressivi nel corso di una serie di sessioni. Non chirurgico, sicuro, con minimo tempo di recupero."
+    },
+    "hyperhidrosis": {
+      "title": "Trattamento dell'Iperidrosi",
+      "tagline": "Sicurezza Senza Limiti",
+      "shortDescription": "Micro-iniezioni di tossina botulinica clinicamente provate per controllare efficacemente e comodamente la sudorazione eccessiva.",
+      "description": "Il trattamento dell'iperidrosi utilizza micro-iniezioni di tossina botulinica (Botox) per controllare la sudorazione eccessiva di ascelle, palmi, piante dei piedi e fronte. Un metodo clinicamente provato e altamente efficace somministrato con comfort e discrezione.",
+      "benefits": ["Ritorno immediato alle attività quotidiane", "Nessun tempo di recupero richiesto", "Sessioni di 30 minuti o meno", "Comodo, privato ed efficiente", "Risultati che durano 6-9 mesi"],
+      "resultsDetail": "I risultati durano 6-9 mesi. Eccellenza medica combinata con cure eleganti."
+    }
+  },
+  "threeDScan": {
+    "title": "Visualizzazione 3D del Corpo",
+    "subtitle": "Vedi i Tuoi Risultati Prima del Trattamento",
+    "description": "Esplora le aree di trattamento su un modello 3D interattivo. Clicca su qualsiasi zona per scoprire i trattamenti disponibili.",
+    "instruction": "Ruota, ingrandisci e clicca sulle zone evidenziate per esplorare i trattamenti.",
+    "cta": "Prova l'Esploratore 3D"
+  },
+  "technology": {
+    "title": "Innovazione e Tecnologia",
+    "subtitle": "Strumenti all'avanguardia che migliorano la tua esperienza",
+    "aiChat": {
+      "title": "Assistente Medico IA",
+      "description": "Ottieni risposte immediate alle tue domande su trattamenti, procedure e programmazione. Il nostro assistente IA è disponibile 24/7 per aiutarti a prendere decisioni informate.",
+      "features": ["Informazioni istantanee sui trattamenti", "Spiegazioni delle procedure", "Assistenza alla programmazione", "Disponibile 24/7"]
+    },
+    "whatsapp": {
+      "title": "Concierge WhatsApp",
+      "description": "Contattaci direttamente tramite WhatsApp per consulenze rapide, prenotazione appuntamenti e follow-up post-trattamento. Veloce, conveniente e personale.",
+      "features": ["Consulenze rapide", "Prenotazione appuntamenti", "Promemoria trattamenti", "Follow-up post-trattamento"]
+    },
+    "booking": {
+      "title": "Sistema di Prenotazione Intelligente",
+      "description": "Prenota il tuo appuntamento online con disponibilità in tempo reale. Seleziona il trattamento, scegli l'orario preferito e ricevi conferma immediata.",
+      "features": ["Disponibilità in tempo reale", "Selezione del trattamento", "Conferma istantanea", "Promemoria automatici"]
+    },
+    "bodyScan": {
+      "title": "Visualizzazione 3D del Corpo",
+      "description": "Esplora le aree di trattamento su un modello 3D interattivo. Comprendi esattamente dove e come funziona ogni trattamento prima della tua consulenza.",
+      "features": ["Modello 3D interattivo", "Esplorazione delle zone di trattamento", "Mappatura visiva dei trattamenti", "Anteprima pre-consulenza"]
+    }
+  },
+  "booking": {
+    "title": "Prenota il Tuo Appuntamento",
+    "subtitle": "Seleziona il trattamento, scegli data e ora, e noi ci occuperemo del resto.",
+    "step1": {
+      "title": "Seleziona Trattamento",
+      "description": "Scegli il trattamento che ti interessa."
+    },
+    "step2": {
+      "title": "Scegli Data e Ora",
+      "description": "Seleziona il tuo slot preferito."
+    },
+    "step3": {
+      "title": "I Tuoi Dati",
+      "description": "Dicci qualcosa di te."
+    },
+    "step4": {
+      "title": "Conferma",
+      "description": "Rivedi e conferma la tua prenotazione."
+    },
+    "form": {
+      "name": "Nome Completo",
+      "email": "Indirizzo Email",
+      "phone": "Numero di Telefono",
+      "notes": "Note Aggiuntive (facoltativo)",
+      "notesPlaceholder": "Preoccupazioni specifiche, allergie o domande...",
+      "submit": "Conferma Prenotazione",
+      "submitting": "Prenotazione in corso...",
+      "success": "Prenotazione Confermata!",
+      "successMessage": "Abbiamo ricevuto la tua richiesta di appuntamento. Riceverai una conferma a breve.",
+      "error": "Qualcosa è andato storto. Riprova o contattaci direttamente."
+    },
+    "calendar": {
+      "selectDate": "Seleziona una Data",
+      "selectTime": "Seleziona un Orario",
+      "noSlots": "Nessuno slot disponibile in questa data.",
+      "morning": "Mattina",
+      "afternoon": "Pomeriggio"
+    },
+    "steps": {
+      "next": "Continua",
+      "back": "Indietro",
+      "review": "Rivedi Prenotazione"
+    }
+  },
+  "contact": {
+    "title": "Contattaci",
+    "subtitle": "Ci piacerebbe sentirti. Contattaci per qualsiasi domanda o per programmare una consulenza.",
+    "form": {
+      "name": "Il Tuo Nome",
+      "email": "La Tua Email",
+      "message": "Il Tuo Messaggio",
+      "messagePlaceholder": "Come possiamo aiutarti?",
+      "submit": "Invia Messaggio",
+      "submitting": "Invio in corso...",
+      "success": "Messaggio inviato con successo!",
+      "error": "Invio fallito. Riprova."
+    },
+    "info": {
+      "address": "Indirizzo",
+      "phone": "Telefono",
+      "email": "Email",
+      "hours": "Orari di Apertura",
+      "hoursDetail": "Lunedì – Sabato, 10:30 – 19:00"
+    },
+    "map": "Trovaci"
+  },
+  "footer": {
+    "tagline": "Sottile. Sofisticato. Fedele a te stesso.",
+    "navigation": "Navigazione",
+    "treatments": "Trattamenti",
+    "contact": "Contatti",
+    "legal": "Legale",
+    "privacy": "Informativa sulla Privacy",
+    "rights": "Tutti i diritti riservati.",
+    "designedBy": "Progettato con cura"
+  },
+  "common": {
+    "readMore": "Leggi di Più",
+    "viewAll": "Vedi Tutto",
+    "bookNow": "Prenota Ora",
+    "callUs": "Chiamaci",
+    "whatsapp": "WhatsApp",
+    "loading": "Caricamento...",
+    "error": "Qualcosa è andato storto",
+    "tryAgain": "Riprova",
+    "back": "Indietro",
+    "next": "Avanti",
+    "submit": "Invia",
+    "cancel": "Annulla",
+    "close": "Chiudi",
+    "search": "Cerca",
+    "or": "o",
+    "and": "e"
+  },
+  "chatbot": {
+    "title": "Assistente IA Dermancy",
+    "placeholder": "Chiedi informazioni sui nostri trattamenti...",
+    "greeting": "Ciao! Sono l'Assistente IA di Dermancy. Come posso aiutarti oggi?",
+    "suggestions": ["Quali trattamenti offrite?", "Come prenoto un appuntamento?", "Parlami del Botox", "Quali sono i vostri orari?"]
+  },
+  "cookie": {
+    "message": "Utilizziamo i cookie per migliorare la tua esperienza di navigazione.",
+    "accept": "Accetta",
+    "decline": "Rifiuta",
+    "learnMore": "Scopri di Più"
+  },
+  "themePreview": {
+    "title": "Versioni del Design",
+    "subtitle": "Esplora tre direzioni di design uniche per Dermancy Medical House.",
+    "switchTo": "Passa a",
+    "current": "Attualmente Attivo",
+    "cleanMinimal": {
+      "title": "Minimalismo Pulito",
+      "description": "Minimalismo audace con tipografia oversize, ampi spazi bianchi e palette teal. Esprime professionalità medica con un tocco moderno."
+    },
+    "darkAesthetic": {
+      "title": "Estetica Scura",
+      "description": "Antracite opaco con accenti oro rosa, effetti vetro liquido e tipografia serif elegante. Estetica medica di lusso elevata ad arte."
+    },
+    "modernProfessional": {
+      "title": "Moderno Professionale",
+      "description": "Design WCAG AAA accessibile con tipografia tech-forward, layout puliti e stati di focus migliorati. Autorità professionale incontra innovazione moderna."
+    }
+  },
+  "privacy": {
+    "title": "Informativa sulla Privacy",
+    "effectiveDate": "Data di Entrata in Vigore: 5 giugno 2025",
+    "content": "Presso Dermancy Medical House, la tua privacy è importante. Raccogliamo informazioni personali tramite moduli di contatto (nome, email, messaggio), prenotazione appuntamenti (nome, email, telefono, data/ora preferita) e dati automatici (indirizzo IP, tipo di browser, pagine visitate). Utilizziamo queste informazioni per rispondere alle richieste, programmare appuntamenti, migliorare il nostro sito web e garantire la sicurezza. Non vendiamo né affittiamo dati personali. Utilizziamo Google Analytics con cookie per l'analisi del sito web. Implementiamo misure tecniche e organizzative appropriate per proteggere i tuoi dati. Hai diritti di accesso, rettifica e cancellazione dei tuoi dati personali a seconda della tua posizione."
+  }
+}
