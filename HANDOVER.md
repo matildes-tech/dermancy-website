@@ -181,7 +181,7 @@ Note: You'll need a `Dockerfile` (not included yet — use the official Next.js 
 | Item | Status | What's Needed |
 |------|--------|---------------|
 | **Images** | Placeholder only | Add real clinic photos, doctor headshot, treatment before/after images to `public/images/` |
-| **AI Chatbot** | Rule-based fallback | Connect to Claude/OpenAI API in `/api/chatbot/route.ts` |
+| **AI Chatbot** | Rule-based fallback | Connect an LLM API in `/api/chatbot/route.ts` |
 | **Database** | No persistence | Add SQLite/Postgres for appointments, patient data |
 | **Admin Auth** | No login page | Implement cookie-based auth with login form |
 | **Email Notifications** | Console.log only | Configure SMTP in booking/contact API routes |
